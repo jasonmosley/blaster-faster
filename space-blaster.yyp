@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "6ea20478-dbb5-4154-980a-75bc2d9fec7d",
+            "Value": {
+                "id": "d76392d3-14fc-4c19-936a-13ebe9611b7d",
+                "resourcePath": "objects\\o_explosion_particle\\o_explosion_particle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "74a9fe2f-a076-4c39-a535-9fa9e6b9198c",
             "Value": {
                 "id": "6e68228f-ab59-4a1a-b574-bedaec43010f",
@@ -341,10 +349,18 @@
                 "resourcePath": "sprites\\s_button\\s_button.yy",
                 "resourceType": "GMSprite"
             }
+        },
+        {
+            "Key": "fa1d9477-8f18-46e3-b94f-6caea7b642f7",
+            "Value": {
+                "id": "d811d1de-f656-4bc6-9499-60cd3ec4cfc9",
+                "resourcePath": "scripts\\bonce_off_screen_edge\\bonce_off_screen_edge.yy",
+                "resourceType": "GMScript"
+            }
         }
     ],
     "script_order": [
-        
+        "fa1d9477-8f18-46e3-b94f-6caea7b642f7"
     ],
     "tutorial": ""
 }
