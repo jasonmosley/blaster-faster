@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "43f20e2b-db44-4db1-b401-f42604f8b4b7",
+            "Value": {
+                "id": "6c44315d-63e5-4521-a732-fb6cfa2becfd",
+                "resourcePath": "objects\\o_ship_parent\\o_ship_parent.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "44adb187-3810-4378-ba4c-f80261c401ba",
             "Value": {
                 "id": "a33b3a25-35b5-4e30-9bfc-49bb0bfecda2",

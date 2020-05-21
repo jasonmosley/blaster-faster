@@ -36,8 +36,25 @@
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
-    "overriddenProperties": null,
-    "parentObjectId": "00000000-0000-0000-0000-000000000000",
+    "overriddenProperties": [
+        {
+            "id": "91cf836c-d0d7-4299-9465-c08ed9de020f",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "43f20e2b-db44-4db1-b401-f42604f8b4b7",
+            "propertyId": "db16639b-7565-4ac3-9639-253e33726673",
+            "value": "4"
+        },
+        {
+            "id": "30126948-9a3d-4ad8-994e-61d511dc8816",
+            "modelName": "GMOverriddenProperty",
+            "mvc": "1.0",
+            "objectId": "43f20e2b-db44-4db1-b401-f42604f8b4b7",
+            "propertyId": "05d11e1d-1b80-4881-90e1-29f4cf20a066",
+            "value": "4"
+        }
+    ],
+    "parentObjectId": "43f20e2b-db44-4db1-b401-f42604f8b4b7",
     "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
