@@ -19,3 +19,8 @@ if (_thrust) {
 	friction = friction_level;
 }
 
+var _fire_laser = mouse_check_button_pressed(mb_left);
+
+if(_fire_laser) {
+	fire_lasers();
+}

@@ -50,7 +50,7 @@
             "Key": "0ad07a66-8de0-49b7-a68a-197169b5c750",
             "Value": {
                 "id": "2198ae34-24c7-4044-843b-e969fad0e8bb",
-                "resourcePath": "sprites\\s_enemy_one\\s_enemy_one.yy",
+                "resourcePath": "sprites\\s_enemy_two\\s_enemy_two.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -68,6 +68,14 @@
                 "id": "afbd46ef-8e6f-46df-a4d7-0c5a7c740a38",
                 "resourcePath": "views\\118f4c1f-de18-4e4d-8d78-df910db7d321.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "167ecb42-c16b-4113-8967-9d8e0964a22c",
+            "Value": {
+                "id": "0dac98b2-95c8-49f6-bd1d-86e0093644fd",
+                "resourcePath": "scripts\\create_right_laser\\create_right_laser.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -100,6 +108,14 @@
                 "id": "de0bcb4f-ec7b-413e-b2a4-f0eaab641186",
                 "resourcePath": "views\\293e084d-7048-4032-bd5b-f9d7fcf1e4b2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "2a3dc986-d5ca-4faf-bf79-831383f372d7",
+            "Value": {
+                "id": "4c343339-8cb5-4adc-9e46-08f5839bcb1b",
+                "resourcePath": "scripts\\fire_lasers\\fire_lasers.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -199,6 +215,22 @@
             }
         },
         {
+            "Key": "5cac7ca5-a99f-4df9-8257-93642ad81772",
+            "Value": {
+                "id": "7741074c-8baa-4bea-af70-39e854a94f44",
+                "resourcePath": "objects\\o_enemy_ship_one\\o_enemy_ship_one.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5e667ccf-d80a-4eaa-9d63-2731d6aefc76",
+            "Value": {
+                "id": "cabeb271-6beb-4325-a2b8-4c18dde52abd",
+                "resourcePath": "scripts\\create_left_laser\\create_left_laser.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "6ea20478-dbb5-4154-980a-75bc2d9fec7d",
             "Value": {
                 "id": "d76392d3-14fc-4c19-936a-13ebe9611b7d",
@@ -255,6 +287,14 @@
             }
         },
         {
+            "Key": "94e5670c-13fa-481c-be6c-e7469e88ff41",
+            "Value": {
+                "id": "e32055c7-5152-47c9-ac54-b68b69f1ef57",
+                "resourcePath": "scripts\\create_laser_effect\\create_laser_effect.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "9d4df521-050a-43aa-b92d-c9402839f7bc",
             "Value": {
                 "id": "deb026c3-3125-4673-a006-4b322ce04240",
@@ -268,6 +308,14 @@
                 "id": "8cca806e-c50d-419d-b3c8-a17fbc07bc4d",
                 "resourcePath": "sprites\\s_ship\\s_ship.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a6e1a1b6-dade-45fe-be30-26f414e6219e",
+            "Value": {
+                "id": "6b2714a1-a389-44eb-843e-92cbc07b9030",
+                "resourcePath": "objects\\o_laser\\o_laser.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -298,7 +346,7 @@
             "Key": "becb4723-1eec-440c-a1a7-9da333d8afba",
             "Value": {
                 "id": "6dfafbdc-ea47-41cb-8c61-3093f2e870db",
-                "resourcePath": "sprites\\s_enemy_two\\s_enemy_two.yy",
+                "resourcePath": "sprites\\s_enemy_one\\s_enemy_one.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -360,7 +408,11 @@
         }
     ],
     "script_order": [
-        "fa1d9477-8f18-46e3-b94f-6caea7b642f7"
+        "fa1d9477-8f18-46e3-b94f-6caea7b642f7",
+        "167ecb42-c16b-4113-8967-9d8e0964a22c",
+        "5e667ccf-d80a-4eaa-9d63-2731d6aefc76",
+        "2a3dc986-d5ca-4faf-bf79-831383f372d7",
+        "94e5670c-13fa-481c-be6c-e7469e88ff41"
     ],
     "tutorial": ""
 }
